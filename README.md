@@ -4,84 +4,70 @@
 
 ## **Tabela de Acesso.**
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-z678{font-family:"Lucida Console", Monaco, monospace !important;font-size:16px;font-weight:bold;text-align:center;
-  vertical-align:top}
-.tg .tg-i9es{border-color:inherit;font-family:"Lucida Console", Monaco, monospace !important;font-size:16px;text-align:left;
-  vertical-align:top}
-.tg .tg-nzk1{font-family:"Lucida Console", Monaco, monospace !important;font-size:16px;text-align:left;vertical-align:top}
-.tg .tg-1y5m{border-color:inherit;font-family:"Lucida Console", Monaco, monospace !important;font-size:16px;text-align:center;
-  vertical-align:top}
-.tg .tg-os0d{font-family:"Lucida Console", Monaco, monospace !important;font-size:16px;text-align:center;vertical-align:top}
-</style>
-<table class="tg">
+
+<table>
 <thead>
   <tr>
-    <th class="tg-i9es"> <span style="font-weight:bold"> HANDS-ON </span></th>
-    <th class="tg-i9es"><span style="font-weight:bold"> LINK </span></th>
+    <th>  HANDS-ON </th>
+    <th> LINK </th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-1y5m"><span style="font-weight:bold">0</span></td>
-    <td class="tg-i9es"> [LINK 0](/Hands-On%200/) </td>
+    <td>0</td>
+    <td>LINK 0</td>
   </tr>
   <tr>
-    <td class="tg-1y5m"><span style="font-weight:bold">1</span></td>
-    <td class="tg-i9es">LINK 1</td>
+    <td>1</td>
+    <td>LINK 1</td>
   </tr>
   <tr>
-    <td class="tg-os0d"><span style="font-weight:bold">2</span></td>
-    <td class="tg-nzk1">LINK 2</td>
+    <td>2</td>
+    <td>LINK 2</td>
   </tr>
   <tr>
-    <td class="tg-os0d"><span style="font-weight:bold">3</span></td>
-    <td class="tg-nzk1">LINK 3</td>
+    <td>3</td>
+    <td>LINK 3</td>
   </tr>
   <tr>
-    <td class="tg-z678">4</td>
-    <td class="tg-nzk1">LINK 4</td>
+    <td>4</td>
+    <td>LINK 4</td>
   </tr>
   <tr>
-    <td class="tg-z678">5</td>
-    <td class="tg-nzk1">LINK 5</td>
+    <td>5</td>
+    <td>LINK 5</td>
   </tr>
   <tr>
-    <td class="tg-z678">6</td>
-    <td class="tg-nzk1">LINK 6</td>
+    <td>6</td>
+    <td>LINK 6</td>
   </tr>
   <tr>
-    <td class="tg-os0d"><span style="font-weight:bold">7</span></td>
-    <td class="tg-nzk1">LINK 7</td>
+    <td>7</td>
+    <td>LINK 7</td>
   </tr>
   <tr>
-    <td class="tg-z678">8</td>
-    <td class="tg-nzk1">LINK 8</td>
+    <td>8</td>
+    <td>LINK 8</td>
   </tr>
   <tr>
-    <td class="tg-z678">9</td>
-    <td class="tg-nzk1">LINK 9</td>
+    <td>9</td>
+    <td>LINK 9</td>
   </tr>
   <tr>
-    <td class="tg-z678">10</td>
-    <td class="tg-nzk1">LINK 10</td>
+    <td>10</td>
+    <td>LINK 10</td>
   </tr>
   <tr>
-    <td class="tg-z678">11</td>
-    <td class="tg-nzk1">LINK 11</td>
+    <td>11</td>
+    <td>LINK 11</td>
   </tr>
   <tr>
-    <td class="tg-z678">12</td>
-    <td class="tg-nzk1">LINK 12</td>
+    <td>12</td>
+    <td>LINK 12</td>
   </tr>
   <tr>
-    <td class="tg-z678">13</td>
-    <td class="tg-nzk1">LINK 13</td>
+    <td>13</td>
+    <td>LINK 13</td>
   </tr>
 </tbody>
 </table>
