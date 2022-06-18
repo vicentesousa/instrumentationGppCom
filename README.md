@@ -1,9 +1,8 @@
-# **Instrumentation GppCom**
+# **INSTRUMENTATION GPPCOM**
 
-**Descrição:** Grupo de Pesquisa em Prototipagem Rápida de Soluções para Comunicação: Promovendo um Ambiente de Instrumentação.
+Grupo de Pesquisa em Prototipagem Rápida de Soluções para Comunicação: Promovendo um Ambiente de Instrumentação.
 
-## **Tabela de Acesso.**
-
+## **TABELA DE ACESSO**
 
 <table>
 <thead>
@@ -72,33 +71,33 @@
 </tbody>
 </table>
 
-### **Hands-On 0**: Preparação do Ambiente.
+### **Hands-On 0: Preparação do Ambiente.**
 **Descrição:**
-### **Hands-On 1**: Brilho Automático e Teclas Retroiluminadas.
+### **Hands-On 1: Brilho Automático e Teclas Retroiluminadas.**
 **Descrição:**
-### **Hands-On 2**: Noções Básicas de Medição: frequência, amplitude e fase.
+### **Hands-On 2: Noções Básicas de Medição: frequência, amplitude e fase.**
 **Descrição:**
-### **Hands-On 3**: Salvar, Recuperar e a Chave de Usuário Exclusivo.
+### **Hands-On 3: Salvar, Recuperar e a Chave de Usuário Exclusivo.**
 **Descrição:**
-### **Hands-On 4**: Global Positioning System (GPS) e Localização.
+### **Hands-On 4: Global Positioning System (GPS) e Localização.**
 **Descrição:**
-### **Hands-On 5**: Planejador de Tarefas.
+### **Hands-On 5: Planejador de Tarefas.**
 **Descrição:**
-### **Hands-On 6**: Monitoramento de Espectro e Caça de Interferência.
+### **Hands-On 6: Monitoramento de Espectro e Caça de Interferência.**
 **Descrição:**
-### **Hands-On 7**: Controle Remoto via LAN ou porta USB.
+### **Hands-On 7: Controle Remoto via LAN ou porta USB.**
 **Descrição:**
-### **Hands-On 8**: Marcadores.
+### **Hands-On 8: Marcadores.**
 **Descrição:**
-### **Hands-On 9**: Funções Avançadas de Marcadores.
+### **Hands-On 9: Funções Avançadas de Marcadores.**
 **Descrição:**
-### **Hands-On 10**: Limites de Linhas e limites de Máscaras.
+### **Hands-On 10: Limites de Linhas e limites de Máscaras.**
 **Descrição:**
-### **Hands-On 11**: Vários rastreamentos e Detectores Simultãneos.
+### **Hands-On 11: Vários rastreamentos e Detectores Simultãneos.**
 **Descrição:**
-### **Hands-On 12**: Traçado de Funções Matemáticas.
+### **Hands-On 12: Traçado de Funções Matemáticas.**
 **Descrição:**
-### **Hands-On 13**: Geração de Rastreamento.
+### **Hands-On 13: Geração de Rastreamento.**
 **Descrição:**
 
 ## Colaboradores:
