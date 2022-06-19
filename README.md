@@ -16,47 +16,47 @@ Grupo de Pesquisa em Prototipagem Rápida de Soluções para Comunicação: Prom
 <tbody>
   <tr>
     <td>0</td>
-    <td>LINK 0</td>
+    <td><a href="/Hands-On%200/">Conhecendo o N934xC HSA</a></td>
   </tr>
   <tr>
     <td>1</td>
-    <td>LINK 1</td>
+    <td><a href="/Hands-On%201/">Iluminação</a></td>
   </tr>
   <tr>
     <td>2</td>
-    <td>LINK 2</td>
+    <td><a href="/Hands-On%202/">Frequência, Amplitude e Período</a></td>
   </tr>
   <tr>
     <td>3</td>
-    <td>LINK 3</td>
+    <td><a href="/Hands-On%203/">Salvar e Recuperar Dados</a></td>
   </tr>
   <tr>
     <td>4</td>
-    <td>LINK 4</td>
+    <td><a href="/Hands-On%204/">GPS</a></td>
   </tr>
   <tr>
     <td>5</td>
-    <td>LINK 5</td>
+    <td><a href="/Hands-On%205/">Planejador de Tarefas</a></td>
   </tr>
   <tr>
     <td>6</td>
-    <td>LINK 6</td>
+    <td><a href="/Hands-On%206/">Espectro e Interferência</a></td>
   </tr>
   <tr>
     <td>7</td>
-    <td>LINK 7</td>
+    <td><a href="/Hands-On%207/">Controle via LAN ou USB</a></td>
   </tr>
   <tr>
     <td>8</td>
-    <td>LINK 8</td>
+    <td><a href="/Hands-On%208/">Marcadores</a></td>
   </tr>
   <tr>
     <td>9</td>
-    <td>LINK 9</td>
+    <td><a href="/Hands-On%209/">Marcadores Avançados</a></td>
   </tr>
   <tr>
     <td>10</td>
-    <td>LINK 10</td>
+    <td><a href="/Hands-On%2010/">Limites de Linhas e Máscaras</a></td>
   </tr>
   <tr>
     <td>11</td>
@@ -83,7 +83,7 @@ Conhecimentos essenciais para o manejo do HSAs N934xC.
 
 A manutenção e o reparo do sistema de comunicação geralmente exigem que um técnico solucione problemas à luz do dia ou na escuridão da noite.
 
-### **Hands-On 2: Noções Básicas de Medição: frequência, amplitude e fase.**
+### **Hands-On 2: Noções Básicas de Medição: frequência, amplitude e período.**
 **Descrição:**
 
 Os principais parâmetros de configuração de medição de um analisador de espectro são:
