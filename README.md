@@ -60,15 +60,11 @@ Grupo de Pesquisa em Prototipagem Rápida de Soluções para Comunicação: Prom
   </tr>
   <tr>
     <td>11</td>
-    <td>LINK 11</td>
+    <td><a href="/Hands-On%2011/">Vários Rastreamentos e Detectores Simultâneos</a></td>
   </tr>
   <tr>
     <td>12</td>
-    <td>LINK 12</td>
-  </tr>
-  <tr>
-    <td>13</td>
-    <td>LINK 13</td>
+    <td><a href="/Hands-On%2012/">Funções Matemáticas</a></td>
   </tr>
 </tbody>
 </table>
@@ -150,3 +146,5 @@ larguras de banda).
 ## Colaboradores:
 
 - **Nome:** [Vicente Sousa](https://github.com/vicentesousa/)
+- **Nome:** [Leonardo Saads](https://github.com/leonardosaaads/)
+- **Nome:** [Enzo Morais](https://github.com/EnzoMorais/)
