@@ -147,5 +147,5 @@ larguras de banda).
 
 - **Nome:** [Enzo Morais](https://github.com/EnzoMorais/)
 - **Nome:** [Leonardo Saads](https://github.com/leonardosaaads/)
-- **Nome:** [Marcio Rodrigues](https://github.com/????/)
+- **Nome:** [Marcio Rodrigues](https://github.com/mecrodrigues/)
 - **Nome:** [Vicente Sousa](https://github.com/vicentesousa/)
