@@ -145,6 +145,7 @@ larguras de banda).
 
 ## Colaboradores:
 
-- **Nome:** [Vicente Sousa](https://github.com/vicentesousa/)
-- **Nome:** [Leonardo Saads](https://github.com/leonardosaaads/)
 - **Nome:** [Enzo Morais](https://github.com/EnzoMorais/)
+- **Nome:** [Leonardo Saads](https://github.com/leonardosaaads/)
+- **Nome:** [Marcio Rodrigues](https://github.com/????/)
+- **Nome:** [Vicente Sousa](https://github.com/vicentesousa/)
