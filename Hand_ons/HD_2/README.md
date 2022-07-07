@@ -21,6 +21,8 @@ um cabo RF e defina os parâmetros abaixo:
 
 - **2.** Selecione **Freq**
 
+![](/Imagens/Teclas/freq.png)
+
 - **3.** Coloque o valor de **98.9**
 
 - **4.** Selecione para medir em **MHz**
@@ -29,6 +31,8 @@ Com isso, você selecionou a frequência 98.9 MHz.
 
 - **5.** Aperte em **Span**
 
+![](/Imagens/Teclas/span.png)
+
 - **6.** Coloque o valor de **10**
 
 - **7.** Selecione para **KHz**
@@ -36,6 +40,8 @@ Com isso, você selecionou a frequência 98.9 MHz.
 Com isso, você ajustou o span para que o sinal preencha a tela
 
 - **8.** Aperte em **Amptd**
+
+![](/Imagens/Teclas/ampld.png)
 
 - **9.** Selecione **Ref Level**
 

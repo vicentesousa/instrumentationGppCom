@@ -16,55 +16,55 @@ Grupo de Pesquisa em Prototipagem Rápida de Soluções para Comunicação: Prom
 <tbody>
   <tr>
     <td>0</td>
-    <td><a href="/Hands-On%200/">Conhecendo o N934xC HSA</a></td>
+    <td><a href="/Hand_ons/HD_0/README.md">Conhecendo o N934xC HSA</a></td>
   </tr>
   <tr>
     <td>1</td>
-    <td><a href="/Hands-On%201/">Iluminação</a></td>
+    <td><a href="/Hand_ons/HD_1/README.md">Iluminação</a></td>
   </tr>
   <tr>
     <td>2</td>
-    <td><a href="/Hands-On%202/">Frequência, Amplitude e Período</a></td>
+    <td><a href="/Hand_ons/HD_2/README.md">Frequência, Amplitude e Período</a></td>
   </tr>
   <tr>
     <td>3</td>
-    <td><a href="/Hands-On%203/">Salvar e Recuperar Dados</a></td>
+    <td><a href="/Hand_ons/HD_3/README.md">Salvar e Recuperar Dados</a></td>
   </tr>
   <tr>
     <td>4</td>
-    <td><a href="/Hands-On%204/">GPS</a></td>
+    <td><a href="/Hand_ons/HD_4/README.md">GPS</a></td>
   </tr>
   <tr>
     <td>5</td>
-    <td><a href="/Hands-On%205/">Planejador de Tarefas</a></td>
+    <td><a href="/Hand_ons/HD_5/README.md">Planejador de Tarefas</a></td>
   </tr>
   <tr>
     <td>6</td>
-    <td><a href="/Hands-On%206/">Espectro e Interferência</a></td>
+    <td><a href="/Hand_ons/HD_6/README.md">Espectro e Interferência</a></td>
   </tr>
   <tr>
     <td>7</td>
-    <td><a href="/Hands-On%207/">Controle via LAN ou USB</a></td>
+    <td><a href="/Hand_ons/HD_7/README.md">Controle via LAN ou USB</a></td>
   </tr>
   <tr>
     <td>8</td>
-    <td><a href="/Hands-On%208/">Marcadores</a></td>
+    <td><a href="/Hand_ons/HD_8/README.md">Marcadores</a></td>
   </tr>
   <tr>
     <td>9</td>
-    <td><a href="/Hands-On%209/">Marcadores Avançados</a></td>
+    <td><a href="/Hand_ons/HD_9/README.md">Marcadores Avançados</a></td>
   </tr>
   <tr>
     <td>10</td>
-    <td><a href="/Hands-On%2010/">Limites de Linhas e Máscaras</a></td>
+    <td><a href="/Hand_ons/HD_10/README.md">Limites de Linhas e Máscaras</a></td>
   </tr>
   <tr>
     <td>11</td>
-    <td><a href="/Hands-On%2011/">Vários Rastreamentos e Detectores Simultâneos</a></td>
+    <td><a href="/Hand_ons/HD_11/README.md">Vários Rastreamentos e Detectores Simultâneos</a></td>
   </tr>
   <tr>
     <td>12</td>
-    <td><a href="/Hands-On%2012/">Funções Matemáticas</a></td>
+    <td><a href="/Hand_ons/HD_12/README.md">Funções Matemáticas</a></td>
   </tr>
 </tbody>
 </table>

@@ -8,27 +8,27 @@ O usuário também pode definir manualmente o brilho da tela e o brilho do tecla
 
 - **1.** Aperte no botão **Shift**
 
-![](/Imagens/shift.png)
+![](/Imagens/teclas/shift.png)
 
 - **2.** Aperte no botão **System**
 
-![](/Imagens/system.png)
+![](/Imagens/teclas/system.png)
 
 - **3.** Selecione **Screen Setting**
 
 - **4.** Gire o botão para ajustar o brilho da tela.
 
-![](/Imagens/rotacionador.png)
+![](/Imagens/teclas/rotacionador.png)
 
 ## Etapas para a regulação (Auto):
 
 - **1.** Aperte no botão **Shift**
 
-![](/Imagens/shift.png)
+![](/Imagens/teclas/shift.png)
 
 - **2.** Aperte no botão **System**
 
-![](/Imagens/system.png)
+![](/Imagens/teclas/system.png)
 
 - **3.** Selecione **Keypad Settind** e depois selecione **Backlight Brightness**
 

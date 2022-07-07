@@ -9,11 +9,11 @@ comodidade no campo. Você pode salvar resultados de medição com dados de loca
 
 - **1.** Aperte em **Shift**
 
-![](/Imagens/shift.png)
+![](/Imagens/Teclas/shift.png)
 
 - **2.** Aperte em **System**
 
-![](/Imagens/system.png)
+![](/Imagens/Teclas/system.png)
 
 - **3.** Aperte em **Mais Opções**
 
@@ -23,8 +23,8 @@ Com isso, aparecerá um ícone de satélite no canto superior direito da tela co
 
 O resultado deve ser semelhante a imagem abaixo:
 
-![](/Imagens/resultado_gps.png)
+![](/Imagens/HD4/resultado_gps.png)
 
 Acesse o site [gps-coordinates](https://www.gps-coordinates.net/) e verifique se as coordenadas estão corretas.
 
-![](/Imagens/localizacao_gps.png)
+![](/Imagens/HD4/localizacao_gps.png)
