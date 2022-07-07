@@ -5,6 +5,10 @@ antena, o HSA também suporta a antena GPS externa, fornecendo
 comodidade no campo. Você pode salvar resultados de medição com dados de localização GPS
 (latitude, longitude e altitude).
 
+**OBS: Faça o plugin da antena de GPS no N9342C. Ela é semelhante a imagem da antena abaixo:**
+
+![](/Imagens/HD4/antena-gps.jpg)
+
 ## Etapas para obter a localização GPS (Antena Interna):
 
 - **1.** Aperte em **Shift**
