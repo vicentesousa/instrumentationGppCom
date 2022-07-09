@@ -14,24 +14,21 @@ O usuário também pode definir manualmente o brilho da tela e o brilho do tecla
 
 ![](/Imagens/Teclas/system.png)
 
-- **3.** Selecione **Screen Setting**
+![](/Imagens\HD01\shift_system.jpg)
 
-- **4.** Gire o botão para ajustar o brilho da tela.
+- **3.** Selecione **Configurações da tela**
+
+![](/Imagens\HD01\config_da_tela.jpg)
+
+- **4.** Selecione a opção **Brilho**
+
+- **5.** Se a palavra **Manual** estiver sublinhada, gire o botão para regular o brilho (se não estiver, aperte mais uma vez o botão correspondente ao brilho)
 
 ![](/Imagens/Teclas/rotacionador.png)
 
-## Etapas para a regulação (Auto):
+- **6.** Apertando o botão correspondente a opção **Brilho** mais uma vez, a palavra **auto** ficará sublinhada e o brilho será ajustado de acordo com o sensor do aparelho.
 
-- **1.** Aperte no botão **Shift**
+![](/Imagens\HD01\config_da_tela_auto.jpg)
 
-![](/Imagens/Teclas/shift.png)
 
-- **2.** Aperte no botão **System**
-
-![](/Imagens/Teclas/system.png)
-
-- **3.** Selecione **Keypad Settind** e depois selecione **Backlight Brightness**
-
-- **4.** Coloque a opção **Auto**
-
-OBS: Você poderá escolher um tempo para a operação do sensor; Os tempos podem ser de "sempre ligado"(always on), 5, 10, 15 ou 30 segundos.
+OBS: Na opção **Economia de energia**, você poderá escolher um tempo para a operação do sensor; Os tempos podem ser de "sempre ligado"(always on), 5, 10, 15 ou 30 minutos.
