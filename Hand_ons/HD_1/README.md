@@ -18,7 +18,7 @@ O usuário também pode definir manualmente o brilho da tela e o brilho do tecla
 
 - **3.** Selecione **Configurações da tela**
 
-![](/Imagens\HD01\config_da_tela.png)
+![](/Imagens/HD01/config_da_tela.png)
 
 - **4.** Selecione a opção **Brilho**
 
@@ -28,7 +28,7 @@ O usuário também pode definir manualmente o brilho da tela e o brilho do tecla
 
 - **6.** Apertando o botão correspondente a opção **Brilho** mais uma vez, a palavra **auto** ficará sublinhada e o brilho será ajustado de acordo com o sensor do aparelho.
 
-![](/Imagens\HD01\config_da_tela_auto.png)
+![](/Imagens/HD01/config_da_tela_auto.png)
 
 
 OBS: Na opção **Economia de energia**, você poderá escolher um tempo para a operação do sensor; Os tempos podem ser de "sempre ligado"(always on), 5, 10, 15 ou 30 minutos.
