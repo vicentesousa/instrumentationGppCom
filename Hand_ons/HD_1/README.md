@@ -14,7 +14,7 @@ O usuário também pode definir manualmente o brilho da tela e o brilho do tecla
 
 ![](/Imagens/Teclas/system.png)
 
-![](/Imagens\HD01\shift_system.png)
+![](/Imagens/HD01/shift_system.png)
 
 - **3.** Selecione **Configurações da tela**
 
