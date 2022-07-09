@@ -18,7 +18,7 @@ comodidade no campo. Você pode salvar resultados de medição com dados de loca
 
 - **3.** Aperte em **Mais**
 
-![](/Imagens/HD01/shift_system_mais.png)
+![](/Imagens/HD04/shift_system_mais.png)
 
 - **4.** Selecione a opção **GPS**
 
