@@ -143,6 +143,14 @@ As funções matemáticas do N934xC HSA são cálculos de potência reais, o que
 Um analisador de espectro equipado com um gerador de rastreamento forma um sistema de medição de resposta de estímulo que pode facilmente realizar testes de componentes escalares com alta dinâmica alcance (devido à arquitetura do receptor sintonizado do analisador de espectro e
 larguras de banda).
 
+## **Vídeos Relacionados**
+
+- [How to Save and Recall.](www.youtube.com/watch?v=jTCtuTqUNeI)
+- [How to Measure Return Loss](www.youtube.com/watch?v=hqa-7f35YlI)
+- [How to Measure Transmitter Frequency & Power ](www.youtube.com/watch?v=CVyAldzheH8)
+- [How to Recall a Channel Standard](www.youtube.com/watch?v=Rn7NJr7v1jc)
+- [Interference Analyzing Spectrum Monitoring](www.youtube.com/watch?v=xQnfnqYPKMQ)
+
 ## Colaboradores:
 
 - **Nome:** [Enzo Morais](https://github.com/EnzoMorais/)

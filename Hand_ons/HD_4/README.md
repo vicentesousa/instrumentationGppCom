@@ -12,7 +12,11 @@ comodidade no campo. Você pode salvar resultados de medição com dados de loca
 
 - **1.** Aperte em **Shift**
 
+![](/Imagens/Teclas/shift.png)
+
 - **2.** Aperte em **System**
+
+![](/Imagens/Teclas/system.png)
 
 ![](/Imagens/HD01/shift_system.png)
 
