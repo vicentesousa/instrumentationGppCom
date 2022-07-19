@@ -145,7 +145,7 @@ larguras de banda).
 
 ## **Vídeos Relacionados**
 
-- [How to Save and Recall.](www.youtube.com/watch?v=jTCtuTqUNeI)
+- [How to Save and Recall.](https://www.youtube.com/watch?v=jTCtuTqUNeI)
 - [How to Measure Return Loss](www.youtube.com/watch?v=hqa-7f35YlI)
 - [How to Measure Transmitter Frequency & Power ](www.youtube.com/watch?v=CVyAldzheH8)
 - [How to Recall a Channel Standard](www.youtube.com/watch?v=Rn7NJr7v1jc)
