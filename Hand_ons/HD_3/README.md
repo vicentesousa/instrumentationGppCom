@@ -48,3 +48,5 @@ OBS: Determinando a frequência e Span
 ___
 
 ![](/Imagens/HD03/OBW.png)
+
+Vídeo Relacionado: [How to Save and Recall.](https://www.youtube.com/watch?v=jTCtuTqUNeI)

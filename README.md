@@ -74,10 +74,14 @@ Grupo de Pesquisa em Prototipagem Rápida de Soluções para Comunicação: Prom
 
 Conhecimentos essenciais para o manejo do HSAs N934xC.
 
+Vídeo Relacionado: [Clique Aqui!](https://www.youtube.com/watch?v=XtDx8EKuHYw)
+
 ### **Hands-On 1: Brilho Automático e Teclas Retroiluminadas.**
 **Descrição:**
 
 A manutenção e o reparo do sistema de comunicação geralmente exigem que um técnico solucione problemas à luz do dia ou na escuridão da noite.
+
+Vídeo Relacionado: [The Basic (First Part)](https://www.youtube.com/watch?v=XtDx8EKuHYw)
 
 ### **Hands-On 2: Noções Básicas de Medição: frequência, amplitude e período.**
 **Descrição:**
@@ -90,15 +94,24 @@ Ajuste o quão perto você olha para o sinal
 – Amplitude
 Ajuste a visualização do nível do sinal
 
+Vídeo Relacionado: [How to Measure Transmitter Frequency & Power ](www.youtube.com/watch?v=CVyAldzheH8)
+
+Vídeo Relacionado: [How to Measure AM and FM Signals](https://www.youtube.com/watch?v=A_5r3tEQE4U)
+
 ### **Hands-On 3: Salvar, Recuperar e a Chave de Usuário Exclusivo.**
 **Descrição:**
 
 Os HSAs N934xC permitem que você salve o estado, trace os dados, resultados (tabela de pico e marcador), linhas de limite e capturas de tela para um arquivo interno, uma unidade USB ou remotamente via LAN ou USB.
 
+Vídeo Relacionado: [How to Save and Recall.](https://www.youtube.com/watch?v=jTCtuTqUNeI)
+
+Vídeo Relacionado: [How to Create the User Key](https://www.youtube.com/watch?v=gZn55OKBuCg)
 ### **Hands-On 4: Global Positioning System (GPS) e Localização.**
 **Descrição:**
 
 O HSA possui um receptor e antena GPS integrados (opção GPS). Além do interno antena, o HSA também suporta a antena GPS externa (Opção GPA), fornecendo comodidade no campo. Você pode salvar resultados de medição com dados de localização GPS (latitude, longitude e altitude).
+
+
 
 ### **Hands-On 5: Planejador de Tarefas.**
 **Descrição:**
@@ -109,6 +122,8 @@ O planejador de tarefas é uma ferramenta exclusiva fornecida com o N934xC HSA c
 **Descrição:**
 
 A opção SIM fornece um espectrograma que fornece uma imagem tridimensional exibição do espectro com potência sobre frequência e tempo. este recurso ajuda a encontrar sinais de interferência intermitentes, bem como localizar e identificar sinais indesejados que causam queda de chamadas e serviço de qualidade em sistemas de comunicações.
+
+Vídeo Relacionado: [Interference Analyzing Spectrum Monitoring](www.youtube.com/watch?v=xQnfnqYPKMQ)
 
 ### **Hands-On 7: Controle Remoto via LAN ou porta USB.**
 **Descrição:**
@@ -142,14 +157,6 @@ As funções matemáticas do N934xC HSA são cálculos de potência reais, o que
 
 Um analisador de espectro equipado com um gerador de rastreamento forma um sistema de medição de resposta de estímulo que pode facilmente realizar testes de componentes escalares com alta dinâmica alcance (devido à arquitetura do receptor sintonizado do analisador de espectro e
 larguras de banda).
-
-## **Vídeos Relacionados**
-
-- [How to Save and Recall.](https://www.youtube.com/watch?v=jTCtuTqUNeI)
-- [How to Measure Return Loss](www.youtube.com/watch?v=hqa-7f35YlI)
-- [How to Measure Transmitter Frequency & Power ](www.youtube.com/watch?v=CVyAldzheH8)
-- [How to Recall a Channel Standard](www.youtube.com/watch?v=Rn7NJr7v1jc)
-- [Interference Analyzing Spectrum Monitoring](www.youtube.com/watch?v=xQnfnqYPKMQ)
 
 ## Colaboradores:
 

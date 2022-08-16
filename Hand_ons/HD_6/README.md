@@ -45,3 +45,5 @@ O intervalo de tempo entre as varreduras pode ser ajustado em até 1.500 traços
 Na sua tela, deverá aparecer uma imagem semelhante a tela abaixo:
 
 ![](/Imagens/HD6/spectrum.png)
+
+Vídeo Relacionado: [Interference Analyzing Spectrum Monitoring](www.youtube.com/watch?v=xQnfnqYPKMQ)
