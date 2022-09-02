@@ -51,6 +51,10 @@ Com isso, você ajustou o span para que o sinal preencha a tela
 
 Com isso, você ajustou a amplitude para -10 dBm.
 
+O resultado final deverá ser semelhante a imagem abaixo:
+
+![](/Imagens/HD2/exemplo.png)
+
 Vídeo Relacionado: [How to Measure Transmitter Frequency & Power ](www.youtube.com/watch?v=CVyAldzheH8)
 
 Vídeo Relacionado: [How to Measure AM and FM Signals](https://www.youtube.com/watch?v=A_5r3tEQE4U)
