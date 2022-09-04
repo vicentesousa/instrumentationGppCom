@@ -74,7 +74,7 @@ Grupo de Pesquisa em Prototipagem Rápida de Soluções para Comunicação: Prom
 
 Conhecimentos essenciais para o manejo do HSAs N934xC.
 
-Vídeo Relacionado: [Clique Aqui!](https://www.youtube.com/watch?v=XtDx8EKuHYw)
+Vídeo Relacionado: [Agilent N9342C HSA Demonstration Guide Video](https://www.youtube.com/watch?v=XtDx8EKuHYw)
 
 ### **Hands-On 1: Brilho Automático e Teclas Retroiluminadas.**
 **Descrição:**
@@ -112,11 +112,12 @@ Vídeo Relacionado: [How to Create the User Key](https://www.youtube.com/watch?v
 O HSA possui um receptor e antena GPS integrados (opção GPS). Além do interno antena, o HSA também suporta a antena GPS externa (Opção GPA), fornecendo comodidade no campo. Você pode salvar resultados de medição com dados de localização GPS (latitude, longitude e altitude).
 
 
-
 ### **Hands-On 5: Planejador de Tarefas.**
 **Descrição:**
 
 O planejador de tarefas é uma ferramenta exclusiva fornecida com o N934xC HSA como um recurso opcional. É fácil para executar sequencialmente muitas medições predefinidas, registrar resultados e gerar relatórios automaticamente.
+
+Vídeo Relacionado: [Agilent N9342C HSA Demonstration Guide Video](https://youtu.be/XtDx8EKuHYw?t=797)
 
 ### **Hands-On 6: Monitoramento de Espectro e Caça de Interferência.**
 **Descrição:**
@@ -125,8 +126,13 @@ A opção SIM fornece um espectrograma que fornece uma imagem tridimensional exi
 
 Vídeo Relacionado: [Interference Analyzing Spectrum Monitoring](www.youtube.com/watch?v=xQnfnqYPKMQ)
 
+Vídeo relacionado: [Agilent N9342C HSA Demonstration Guide Video](https://youtu.be/XtDx8EKuHYw?t=492)
+
 ### **Hands-On 7: Controle Remoto via LAN ou porta USB.**
 **Descrição:**
+
+Para manter um sistema de comunicação funcionando de forma confiável a longo prazo, você precisa monitorar o espectro rotineiramente. O monitoramento regular do espectro geralmente é realizado automaticamente usando o software de controle remoto para acionar o analisador de espectro. Você pode remotamente controle o HSA usando comandos SCPI sobre LAN e USB, ou use o software HSA para PC para monitorar as mudanças espectrais.
+
 ### **Hands-On 8: Marcadores.**
 **Descrição:**
 

@@ -32,3 +32,9 @@ Para escutar os sinais, utilize os seguintes comandos, respectivamente:
 Após o ajuste, sua tela deverá ser semelhante ao resultado abaixo:
 
 ![](/Imagens/HD9/Exemplo.png)
+
+Videos Relacionados:
+
+- 
+
+-
