@@ -6,7 +6,7 @@
 **Objetivo**
 Instalar e configurar o GNU Radio 3.9 no Ubuntu 20.04.3 LTS (Focal Fossa) com suporte a USRP e ao driver RTL-SDR usando o gerenciador de pacotes apt-get.
 
-### Instalação do UHD (Para uso da USRP)**
+### **Instalação do UHD (Para uso da USRP)**
 
 De acordo com o site https://wiki.gnuradio.org/index.php/InstallingGR#From_Source para utilizar a USRP junto com o GNU Radio é necessário instalar software USRP Hardware Driver (UHD).
 
@@ -142,13 +142,68 @@ Ou também pode ser aberto pela sua área de trabalho:
 
 ## GNU Radio 3.9 / USRP - instalação via WINDOWS
 
+### **Instalação do UHD (Para uso da USRP)**
+
+Os procedimentos para instalação no Windows dos binários para utilização do dispositivo USRP estão disponíveís no site: https://files.ettus.com/manual/page_install.html. Com base nesse manual, os passos abaixos foram realizados.
+
+**Passo 1:** Acesse o site Ettus Research na parte de útlimos lançamentos de UHD. O site geralmente disponibiliza no link abaixo:
+
+```
+https://files.ettus.com/binaries/uhd/latest_release/
+```
+
+Veja a parte que contém o Windows 10 e selecione essa opção. Semelhante a tela abaixo:
+
+![](/Imagens/GNUradio/Instalacao/instalacao_windows_01.png)
+
+**Passo 2:** Faça o Download dos binários UHD clicando-se no ultimo lançamento - como mostrado na figura abaixo:
+
+![](/Imagens/GNUradio/Instalacao/instalacao_windows_02.png)
+
+**Passo 3:** Será aberto o instalador USRP. Prossiga com a instação.
+
+![](/Imagens/GNUradio/Instalacao/instalacao_windows_03.png)
+
+![](/Imagens/GNUradio/Instalacao/instalacao_windows_04.png)
+
+**Passo 4:** Realize o download dos Drivers USB USRP para Windows. Os drivers podem ser baixados diretamente pelo link disponível abaixo:
+
+```
+http://files.ettus.com/binaries/misc/erllc_uhd_winusb_driver.zip
+```
+
+OBS: Nessa hora pode ser que o Windows não identifique os arquivos como seguro, sendo necessário clicar na opção "Manter" para que o download seja feito corrtamente.
+
+**Passo 5:** Crie uma pasta chamada "Driver" e realize a descompactação dos arquivos na nova pasta criada.
+
+![](/Imagens/GNUradio/Instalacao/instalacao_windows_05.png)
+
+**Passo 6:** Esse passo requer mais atenção! Você deverá passar os arquivos descompactados da nova pasta "Driver" transferindo-se a pasta onde estão os binários UHD. Para realizar essa tarefa, primeiro acesse a pasta dos binários. Eles geralmente ficam em:
+
+**Disco Local -> Arquivos de Programas (x86) -> UHD**
+
+ou em 
+
+**Disco Local -> Arquivos de Programas -> UHD**
+
+Você verá uma tela semelhante a essa:
+
+![](/Imagens/GNUradio/Instalacao/instalacao_windows_06.png)
+
+Agora, nesta mesma pasta, acesse:
+
+**share -> uhd -> images**
+
+e transfira a pasta criada "Driver" para esta pasta "images".
+
+![](/Imagens/GNUradio/Instalacao/instalacao_windows_07.png)
+
+**Passo 7:** Neste passo, será realizado o update dos drivers para os binários USRP. Acesse
+
+**Painel de Controle -> Hardware e Sons -> Dispositivos e Impressoras**
+
+Você verá que aparece **USRP B200**. Caso não apareça, reinicie seu computador e siga o passo 7 novamente. 
 
 ### Instalação do GNU Radio
 
 Com base no site oficial do GNUradio, é possível utilizar o GNU Radio no Windows. Entretanto, vale salientar que o suporte ao GNU Radio no Windows permanece menos testado e há problemas desconhecidos e até mesmo bugs significativos que afetam o uso regular do GNU Radio Companion.
-
-**Passo 1** - Acesse o site oficial de instalações do GNU Radio, disponível clicando [aqui](https://wiki.gnuradio.org/index.php/InstallingGR). Você verá uma imagem semelhante a:
-
-![](/Imagens/GNUradio/Instalacao/instalacao_windows_01.png)
-
-(Em Manutenção)

@@ -180,6 +180,13 @@ Veja os arquivos do GNU Radio montados clicando abaixo:
 
 - [Transmissão de Arquivo de Áudio via FM]()
 
+VIdeos Auxiliares:
+
+- [Instalação USRP & GNU Radio no Windows](https://www.youtube.com/watch?v=vtlJVI8C2Jg)
+
+- [Instalação USRP & GNU Radio no Linux](https://www.youtube.com/watch?v=mIi3L6KNDZ4)
+
+OBS: Vídeo para Linux Ubuntu 18.04 LTS
 ___
 
 ## Colaboradores:
