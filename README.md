@@ -4,6 +4,7 @@ Grupo de Pesquisa em Prototipagem Rápida de Soluções para Comunicação: Prom
 
 ![](/Imagens/N934xC_HSA.png)
 
+___
 ## **TABELA DE ACESSO**
 
 <table>
@@ -69,6 +70,7 @@ Grupo de Pesquisa em Prototipagem Rápida de Soluções para Comunicação: Prom
 </tbody>
 </table>
 
+___
 ### **Hands-On 0: Preparação do Ambiente.**
 **Descrição:**
 
@@ -163,6 +165,22 @@ As funções matemáticas do N934xC HSA são cálculos de potência reais, o que
 
 Um analisador de espectro equipado com um gerador de rastreamento forma um sistema de medição de resposta de estímulo que pode facilmente realizar testes de componentes escalares com alta dinâmica alcance (devido à arquitetura do receptor sintonizado do analisador de espectro e
 larguras de banda).
+
+___
+
+## Instalação & Uso do GNURadio
+
+O GNU Radio é um kit de ferramentas de desenvolvimento de software gratuito que fornece blocos de processamento de sinal para implementar rádios e sistemas de processamento de sinal definidos por software. Esse software será importante nos Hands-On devido a sua acessibilidade para transmissão de ondas via USRP - dispositivos disponíveis no LABSIM.
+
+Acesse o guia para instalação clicando [aqui](/GNURadio/README.md).
+
+Veja os arquivos do GNU Radio montados clicando abaixo:
+
+- [Transmissão de um Cosseno via FM]()
+
+- [Transmissão de Arquivo de Áudio via FM]()
+
+___
 
 ## Colaboradores:
 
