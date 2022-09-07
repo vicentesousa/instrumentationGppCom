@@ -2,7 +2,6 @@
 
 ## GNU Radio 3.9 / USRP - instalação via LINUX
 
-
 **Objetivo**
 Instalar e configurar o GNU Radio 3.9 no Ubuntu 20.04.3 LTS (Focal Fossa) com suporte a USRP e ao driver RTL-SDR usando o gerenciador de pacotes apt-get.
 
@@ -144,7 +143,7 @@ Ou também pode ser aberto pela sua área de trabalho:
 
 ### **Instalação do UHD (Para uso da USRP)**
 
-Os procedimentos para instalação no Windows dos binários para utilização do dispositivo USRP estão disponíveís no site: https://files.ettus.com/manual/page_install.html. Com base nesse manual, os passos abaixos foram realizados.
+Os procedimentos para instalação no Windows dos binários para utilização do dispositivo USRP estão disponíveís no site: https://files.ettus.com/manual/page_install.html. Com base nesse manual, os passos abaixos foram realizados. ALém disso, após o passo 6, a USRP deve ficar ligada ao seu computador.
 
 **Passo 1:** Acesse o site Ettus Research na parte de útlimos lançamentos de UHD. O site geralmente disponibiliza no link abaixo:
 
@@ -202,8 +201,19 @@ e transfira a pasta criada "Driver" para esta pasta "images".
 
 **Painel de Controle -> Hardware e Sons -> Dispositivos e Impressoras**
 
-Você verá que aparece **USRP B200**. Caso não apareça, reinicie seu computador e siga o passo 7 novamente. 
+Você verá que aparece **USRP N210**. Caso não apareça, reinicie seu computador e siga o passo 7 novamente.
 
-### Instalação do GNU Radio
+Com o botão direito, clique em **USRP N210** e depois clique em **Propriedades**. Será aberta uma nova tela e você derá clicar em:
+
+**Hardware -> properties -> Change Settings -> Driver -> Update Driver -> Browse my compuiter for drivers**
+
+Selecione a pasta "Driver" dentro da pasta "images".
+
+![](/Imagens/GNUradio/Instalacao/instalacao_windows_08.png)
+
+Com isso, você configurou corretamente as confirações da USRP.
+
+### Instalação do GNU Radio 3.9
 
 Com base no site oficial do GNUradio, é possível utilizar o GNU Radio no Windows. Entretanto, vale salientar que o suporte ao GNU Radio no Windows permanece menos testado e há problemas desconhecidos e até mesmo bugs significativos que afetam o uso regular do GNU Radio Companion.
+
